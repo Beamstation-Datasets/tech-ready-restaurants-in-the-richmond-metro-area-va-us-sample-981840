@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Richmond Metro Area, VA, US",
+  "export_job_id": "3f37c37e-b7b3-4679-87c4-922ca64900ae",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 981840,
+  "location_name": "Richmond, VA",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-richmond-metro-area-va-us-sample-981840",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/981840/beamstation_981840_restaurants-us-richmondva_SAMPLE_DIST.csv",
+  "sample_pct": 20.0,
+  "sample_records": 1,
+  "sample_sha256": "7c459eac8b88d56155d435b85303e17a3bff5d319111373096b28f6186e369e5",
+  "sample_size_bytes": 19724,
+  "total_records": 5,
+  "updated_at": "2026-04-08T04:10:33.727311+00:00"
+}
