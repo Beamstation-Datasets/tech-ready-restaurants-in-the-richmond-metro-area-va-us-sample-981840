@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3f37c37e-b7b3-4679-87c4-922ca64900ae",
+  "id_short": 981840,
+  "published_at": "2026-04-16T07:22:10Z",
+  "repo_name": "tech-ready-restaurants-in-the-richmond-metro-area-va-us-sample-981840",
+  "sample_asset_name": "beamstation_981840_restaurants-us-richmondva_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/981840/beamstation_981840_restaurants-us-richmondva_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "7c459eac8b88d56155d435b85303e17a3bff5d319111373096b28f6186e369e5",
+  "sample_size_bytes": 19724,
+  "total_records": 5
+}
